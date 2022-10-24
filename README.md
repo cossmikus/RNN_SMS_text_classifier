@@ -1,2 +1,2 @@
-# NN SMS text classifier
+# SMS text classifier using Recurrent Neural Network
 blah blah 
