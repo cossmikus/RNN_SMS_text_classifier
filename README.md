@@ -1,2 +1,2 @@
-# cat_and_dog
-can and dog image classifier
+# NN SMS text classifier
+blah blah 
